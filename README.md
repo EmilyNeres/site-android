@@ -1,8 +1,5 @@
 # site-android
-
-# Curiosidades de Tecnologia
 Este site foi criado como parte do curso de HTML e CSS do Curso em Vídeo
-
 
 ## Descrição
 
